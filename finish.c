@@ -7,7 +7,7 @@
     int tab_p[2][100];//t-ableau presedent indices & conteur votes
    
    
-
+//anas 
     void Insertion() //Insertion des nombres de condida tet nombre des electeuurs
 {
           printf("\n\n");
